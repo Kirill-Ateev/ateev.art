@@ -216,7 +216,7 @@ yarn extract && yarn compile && yarn build
 | `sitemap.xml`                      | `public/sitemap.xml`     | Sitemap index → per-collection sub-sitemaps |
 | `llm.txt`                          | `public/llm.txt`         | AI crawler context                          |
 | PWA manifest                       | `src/app/manifest.ts`    | Installable web app                         |
-| GTM `GTM-TWZXMCQQ`                 | `components/GTM/GTM.tsx` | Analytics                                   |
+| GTM `G-Z42GJN0HP7`                 | `components/GTM/GTM.tsx` | Analytics                                   |
 | Custom 404                         | `src/app/not-found.tsx`  | SEO meta on 404 page                        |
 
 ### Per-Token SEO
