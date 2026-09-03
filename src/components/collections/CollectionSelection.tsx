@@ -20,8 +20,8 @@ export default function CollectionSelection() {
   });
 
   const images: { imageId: string; tokenId: number }[] = [
-    { imageId: 'Berry1', tokenId: 4 },
-    { imageId: 'Berry2', tokenId: 3 },
+    { imageId: 'Berry1', tokenId: 3 },
+    { imageId: 'Berry2', tokenId: 4 },
     { imageId: 'Field', tokenId: 2 },
     { imageId: 'Egg', tokenId: 1 },
   ];
